@@ -12,7 +12,7 @@ namespace ClientReservasi_20190140129
 {
     public partial class Form1 : Form
     {
-        ServiceReference1.Service1Client service = new ServiceReference1.Service1Client();
+        ServiceReference2.Service1Client service = new ServiceReference2.Service1Client();
         public Form1()
         {
             InitializeComponent();
